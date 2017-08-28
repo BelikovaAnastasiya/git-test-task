@@ -2,3 +2,5 @@
 First changes!
 
 Changes for first additional commit to develop.
+
+Changes for cherry-pick commit to develop.

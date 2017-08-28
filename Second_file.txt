@@ -4,5 +4,3 @@ Changes for first commit to develop branch.
 Changes for second commit to develop branch.
 
 Changes for second addtional commit to develop branch.
-
-Changes for revert commit to develop branch.

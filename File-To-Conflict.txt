@@ -1,0 +1,3 @@
+http://aakinshin.net/ru/blog/post/git-log/
+
+some good examples for git log
